@@ -1,0 +1,10 @@
+incident_state,incident_count
+Active,38716
+New,36407
+Resolved,25751
+Closed,24985
+Awaiting User Info,14642
+Awaiting Vendor,707
+Awaiting Problem,461
+Awaiting Evidence,38
+-100,5
